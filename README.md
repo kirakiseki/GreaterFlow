@@ -1,2 +1,2 @@
 # GreaterFlow
-Let flow become alive
+Let flows flow!
